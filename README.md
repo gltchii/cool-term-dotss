@@ -18,7 +18,7 @@ CD into the repository, and copy the dots into your .config file
 
 ```sudo rm ~/.bashrc```
 
-```sudo mv bashrc ~/```
+```sudo mv .bashrc ~/```
 
 reboot and run hyprland
 
