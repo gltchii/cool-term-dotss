@@ -16,6 +16,8 @@ CD into the repository, and copy the dots into your .config file
 
 ```sudo mv fastfetch ~/.config/```
 
+```sudo rename dot.bashrc .bashrc```
+
 ```sudo rm ~/.bashrc```
 
 ```sudo mv .bashrc ~/```
